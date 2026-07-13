@@ -144,4 +144,4 @@ const GameCard = ({
   );
 };
 
-export default GameCard;
+export default GameCard;npm run dev
